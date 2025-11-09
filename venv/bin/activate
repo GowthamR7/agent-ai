@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/gowthamramar/placement-insight-generator/venv"
+VIRTUAL_ENV="/Users/gowthamramar/Documents/GitHub/Student-Analytics-Platform/Student-Analytics-Platform/agent-ai/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

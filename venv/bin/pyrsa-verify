@@ -1,4 +1,4 @@
-#!/Users/gowthamramar/placement-insight-generator/venv/bin/python3
+#!/Users/gowthamramar/Documents/GitHub/Student-Analytics-Platform/Student-Analytics-Platform/agent-ai/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
